@@ -1,4 +1,4 @@
-## Imersão Dev 🌐Certificard
+## Imersão Dev - Certificard🌐
 
 Certificard com as insígnias de cada aula/projeto elaborado durante a Imersão Dev da Alura no CodePen.
 
