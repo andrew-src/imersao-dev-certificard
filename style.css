@@ -4,7 +4,7 @@
 
 html,
 body {
-  background-color: #b78dda;
+  background-color: #ffd165;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -36,7 +36,7 @@ header {
 div {
   padding: 15px;
   border: 1px solid black;
-  background-color: #ebf4ff;
+  background-color: #fff5de;
 }
 
 img {
